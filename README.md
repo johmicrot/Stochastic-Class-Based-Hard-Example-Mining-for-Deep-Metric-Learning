@@ -4,6 +4,6 @@ Implementation of Stochastic Class-based Hard Example Mining for Deep Metric Lea
 
 Guide:
 
-    Load CUB dataset into root directory CUB_200_2011. Images should be located in CUB_200_2011/images/*
-    Run Create_CUB_Dataset.py to reshape the CUB images and save them all as .npy files
-    Run Train_Model.py with parameters to start training
+ 1) Load CUB dataset into root directory CUB_200_2011. Images should be located in CUB_200_2011/images/*
+ 2) Run Create_CUB_Dataset.py to reshape the CUB images and save them all as .npy files
+ 3) Run Train_Model.py with parameters to start training
