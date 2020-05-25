@@ -1,5 +1,5 @@
 # Stochastic-Class-Based-Hard-Example-Mining-for-Deep-Metric-Learning (SCHEM)
-Implementation of Stochastic Class-based Hard Example Mining for Deep Metric Learning in Tensorflow 2.1.0
+Implementation of Stochastic Class-based Hard Example Mining for Deep Metric Learning in Tensorflow 2.1.0.  MobilenetV2 is used instead of InceptionV1.
 
 
 Guide:
